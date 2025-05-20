@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: The Apprentice’s Chronicles
+email: mario@pinedaandco.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Apprentice’s Chronicles is a living journal documenting my journey through a traditional goldsmithing apprenticeship. This blog follows the slow, deliberate process of learning a centuries-old craft by hand — one tool, one mistake, and one small triumph at a time. Through weekly entries, studio notes, and behind-the-scenes photos, I’m sharing what it means to apprentice in the art of goldsmithing in a modern world that moves too fast.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mario Pineda"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Goldsmith in the making and a storyteller in metal and light, forging beauty from raw elements and chasing beauty through grit, fire, and wild terrain."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://pinedaandco.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -73,7 +71,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/pinedaandco"
 
 footer:
   links:
@@ -85,7 +83,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/pinedaandco"
 
 defaults:
   # _posts
