@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Apprentice’s Chronicles is a living journal documenting my journey through a traditional goldsmithing apprenticeship. This blog follows the slow, deliberate process of learning a centuries-old craft by hand — one tool, one mistake, and one small triumph at a time. Through weekly entries, studio notes, and behind-the-scenes photos, I’m sharing what it means to apprentice in the art of goldsmithing in a modern world that moves too fast.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
