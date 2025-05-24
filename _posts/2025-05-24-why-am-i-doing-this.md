@@ -9,13 +9,26 @@ tags:
   - standard
 ---
 
-This space is for me. No audience, no polish, no pretending. Just a quiet ledger of a journey I’ve put off for years — maybe decades — and have finally decided to begin.
+This page? It’s not for show. It’s for me.
 
-I’ve always been drawn to tools, to the weight of a hammer in hand, to materials that resist and yield with effort and heat. Goldsmithing has lived at the edges of my life for a long time, whispering now and then, reminding me it was still there. Life gave me good reasons to wait: work, family, other passions. But deep down, I knew I’d have to come back to it — not out of obligation, but because it’s part of how I understand myself.
+I’m officially apprenticing in goldsmithing. Not in some dreamy sunlit atelier — but in the stolen hours before dawn, in the quiet when the house is asleep, in the corners of a life already full to the brim. And I’m doing it with Jewellery Training Solutions, under the guidance of Peter Keep — because if I’m going to learn, I’m going to learn it right.
 
-This blog will document my apprenticeship through Jewellery Training Solutions (JTS), the program designed by Peter Keep, whose teaching balances technical rigor with humility and real-world wisdom. I respect the structure. I need the discipline. The JTS pathway gives me a clear roadmap, but the work — the learning, the time, the failures and little victories — that’s all on me.
+This blog is my written accountability.
+My vow to myself.
+My proof of commitment.
+It’s where I put down the truth — raw, real, unfiltered — about what it takes to chase mastery one project at a time.
 
-I’m not here to “build a brand” or make this something bigger than it is. I’m here because I need a place to track the process. Somewhere to write down what I’ve learned, what went wrong, what surprised me, what burned, what clicked. I want to look back someday and see the long arc of becoming. The things I thought I’d never figure out. The tools that became extensions of my hands. The day a solder seam ran clean and smooth, finally.
+This isn’t for followers, fame, or some romanticized idea of craftsmanship.
+This is for the days when I don’t want to do the work and need a reminder that I said I would.
+This is for the long haul.
+This is for showing up.
 
-There’s no pressure here. Just one post at a time. One project at a time. One skill at a time. This is how I’ll hold myself accountable. This is where I’ll keep the notes. This is my own quiet apprenticeship journal.
+And if someone out there finds this and feels a spark, a push, a sense that they too can start late, start tired, start now — then good. Welcome. But that’s just a side effect.
+
+The main thing?
+I’m here. I’m learning. I’m not stopping.
+
+“Discipline is choosing between what you want now and what you want most.”
+— Abraham Lincoln… or maybe just the truth
+
 
