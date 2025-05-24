@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Apprentice’s Chronicles
 email: mario@pinedaandco.com
-description: "The Apprentice’s Chronicles is a living journal documenting my journey through a traditional goldsmithing apprenticeship. This blog follows the slow, deliberate process of learning a centuries-old craft by hand — one tool, one mistake, and one small triumph at a time. Through weekly entries, studio notes, and behind-the-scenes photos, I’m sharing what it means to apprentice in the art of goldsmithing in a modern world that moves too fast."
-twitter_username: username
-github_username: username
+description: "The Apprentice’s Chronicles is a living journal documenting my journey through a traditional jewelery apprenticeship. This blog follows the slow, deliberate process of learning a centuries-old craft by hand — one tool, one mistake, and one small triumph at a time. Through weekly entries, studio notes, and behind-the-scenes photos, I’m sharing what it means to apprentice in the art of goldsmithing in a modern world that moves too fast."
 minimal_mistakes_skin: contrast
 search: true
 
@@ -55,9 +53,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "Mario Pineda"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Goldsmith in the making and a storyteller in metal and light, forging beauty from raw elements and chasing beauty through grit, fire, and wild terrain."
+  bio    : "Jeweler in the making and a storyteller in metal and light, forging beauty from raw elements and chasing beauty through grit, fire, and wild terrain."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
