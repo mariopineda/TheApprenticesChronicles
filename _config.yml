@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mario Pineda"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Goldsmith in the making and a storyteller in metal and light, forging beauty from raw elements and chasing beauty through grit, fire, and wild terrain."
   links:
